@@ -2,6 +2,12 @@
 
 This Streamlit application demonstrates a simple question-answering system powered by Langchain and the Google Gemini 1.5 Pro model. You can ask the chatbot any question, and it will use the Gemini model to generate a response.
 
+Google's Gemini 1.5 Pro as the language model
+
+LangChain to structure the prompt
+
+Streamlit to create the web-based user interface
+
 ## Prerequisites
 
 Before running the application, ensure you have the following installed:
